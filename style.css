@@ -19,7 +19,7 @@
     --highlight-color: rgba(0, 0, 0, 0.10);
     --stroke-color:rgba(0, 0, 0, 0.856);
     --surface-color: rgba(0, 0, 0, 0.226);
-    --switch-bg-url: url(/assets/Sun.svg);
+    --switch-bg-url: url(./assets/Sun.svg);
 
 }
 
